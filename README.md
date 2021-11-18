@@ -1,5 +1,15 @@
 <!-- ### Hi there 👋 -->
 
+
+Index
+- [📖 Languages i work with](https://github.com/DvdDuarte#-languages-i-work-with)
+- [📚 I’m currently learning](https://github.com/DvdDuarte#-im-currently-learning)
+- [🛠 Tools i use](https://github.com/DvdDuarte#-tools-i-use)
+- [💻 OS](https://github.com/DvdDuarte#-os-systems)
+- [💾 My Stats](https://github.com/DvdDuarte#-my-stats)
+- [😁 Random joke of the day](https://github.com/DvdDuarte#-random-joke-of-the-day)
+- [📫 How to reach me](https://github.com/DvdDuarte#-how-to-reach-me)
+
 #### 📖 Languages i work with:
 [<img src="https://user-images.githubusercontent.com/62104686/142400954-7afaf2dd-8895-4635-9891-064742925ff0.png" width=4% height=4% alt="haskell-icon">](https://www.haskell.org/documentation/) [<img src="https://user-images.githubusercontent.com/62104686/142401436-ef904c55-7d35-4d15-a5fc-6cb57cd5bfc7.png" width=4% height=4% alt="c-icon">](https://devdocs.io/c/) [<img src="https://user-images.githubusercontent.com/62104686/142401190-df78b2c6-2bfc-4ead-96bc-bd09951071fb.png"  width=4% height=4% alt="java-icon">](https://docs.oracle.com/en/java/javase/17/docs/api/index.html)
 
@@ -8,7 +18,6 @@
 - [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
 - [Rust](https://www.rust-lang.org/learn)
 
-
 #### 🛠 Tools i use:
 ![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
@@ -16,7 +25,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-#### 💻 OS Systems:
+#### 💻 OS:
 <img alt=”React” src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/> <img alt="React" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/> ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 
 #### 💾 My Stats:
