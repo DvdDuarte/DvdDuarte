@@ -21,8 +21,8 @@
 <img alt=”React” src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/> <img alt="React" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/> ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 
 #### My Stats:
-[![DvdDuarte’s github stats](https://github-readme-stats.vercel.app/api?username=DvdDuarte)](https://github.com/DvdDuarte)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DvdDuarte&layout=compact)](https://github.com/DvdDuarte)
+[![DvdDuarte’s github stats](https://github-readme-stats.vercel.app/api?username=DvdDuarte&count_private=true&theme=radical)](https://github.com/DvdDuarte)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DvdDuarte&layout=compact&theme=radical)](https://github.com/DvdDuarte)
 
 #### 📫 How to reach me:
 <a href="https://www.instagram.com/_dvd_duarte_/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
