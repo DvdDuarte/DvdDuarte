@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋 -->
 
 
-Index
+## Index
 - [📖 Languages i work with](https://github.com/DvdDuarte#-languages-i-work-with)
 - [📚 I’m currently learning](https://github.com/DvdDuarte#-im-currently-learning)
 - [🛠 Tools i use](https://github.com/DvdDuarte#-tools-i-use)
