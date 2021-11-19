@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋 -->
 
 # About me
-I´m a student @ University of Minho, currently getting my degree in Software engineering. 
+I´m a student [@University of Minho](https://www.uminho.pt/PT), currently getting my degree in Software Engineering. 
 I have a big passion for GameDev and Cyber Security.
 
 ## Index
