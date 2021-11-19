@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋 -->
 
 # About me
-I´m a student [@University of Minho](https://www.uminho.pt/PT), currently getting my degree in Software Engineering. 
+I´m a student [@University of Minho](https://www.uminho.pt/PT), currently getting my degree in Software Engineering.<br />
 I have a big passion for GameDev, Cyber Security and Blockchain.
 
 Holder of:
@@ -20,7 +20,9 @@ Holder of:
 - [📫 How to reach me](https://github.com/DvdDuarte#-how-to-reach-me)
 
 ### 📖 Languages i work with:
-[<img src="https://user-images.githubusercontent.com/62104686/142400954-7afaf2dd-8895-4635-9891-064742925ff0.png" width=4% height=4% alt="haskell-icon">](https://www.haskell.org/documentation/) [<img src="https://user-images.githubusercontent.com/62104686/142401436-ef904c55-7d35-4d15-a5fc-6cb57cd5bfc7.png" width=4% height=4% alt="c-icon">](https://devdocs.io/c/) [<img src="https://user-images.githubusercontent.com/62104686/142401190-df78b2c6-2bfc-4ead-96bc-bd09951071fb.png"  width=4% height=4% alt="java-icon">](https://docs.oracle.com/en/java/javase/17/docs/api/index.html)
+[<img src="https://user-images.githubusercontent.com/62104686/142400954-7afaf2dd-8895-4635-9891-064742925ff0.png" width=4% height=4% alt="haskell-icon">](https://www.haskell.org/documentation/)
+[<img src="https://user-images.githubusercontent.com/62104686/142401436-ef904c55-7d35-4d15-a5fc-6cb57cd5bfc7.png" width=4% height=4% alt="c-icon">](https://devdocs.io/c/)
+[<img src="https://user-images.githubusercontent.com/62104686/142401190-df78b2c6-2bfc-4ead-96bc-bd09951071fb.png"  width=4% height=4% alt="java-icon">](https://docs.oracle.com/en/java/javase/17/docs/api/index.html)
 
 ### 📚 I’m currently learning:
 - [Python](https://docs.python.org/3/)
