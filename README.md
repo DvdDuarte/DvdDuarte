@@ -4,7 +4,13 @@
 I´m a student [@University of Minho](https://www.uminho.pt/PT), currently getting my degree in Software Engineering. 
 I have a big passion for GameDev and Cyber Security.
 
-## Index
+Holder of:
+
+[<img src="https://user-images.githubusercontent.com/62104686/142598488-6e2b2a9d-0611-4d52-ba19-70febd3858b2.png" width=3% height=3% align="bottom" alt="bitcoin-icon">](https://bitcoin.org/en/)
+[<img src="https://user-images.githubusercontent.com/62104686/142600252-7a95d54b-04cc-4b87-a945-7201cd73ba8f.png" width=3.2% height=3.2% align="bottom" alt="phuntoken">](https://www.phuntoken.com/)
+
+
+## Index <img src="https://komarev.com/ghpvc/?username=DvdDuarte"/>
 - [📖 Languages i work with](https://github.com/DvdDuarte#-languages-i-work-with)
 - [📚 I’m currently learning](https://github.com/DvdDuarte#-im-currently-learning)
 - [🛠 Tools i use](https://github.com/DvdDuarte#-tools-i-use)
