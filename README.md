@@ -48,7 +48,7 @@ Holder of:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DvdDuarte&layout=compact&theme=radical)](https://github.com/DvdDuarte)
 
 ### 😁 Random joke of the day:
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" width=50% height=50%/>
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" width=500px/>
 
 ### 📫 How to reach me:
 <a href="https://www.instagram.com/_dvd_duarte_/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="David Duarte | Instagram" width="25px"/></a>
@@ -56,6 +56,7 @@ Holder of:
 <a href="https://steamcommunity.com/id/sleimantuts"><img align="left" src="https://user-images.githubusercontent.com/62104686/142607067-91ead1d5-f691-4810-8cdd-869a18b0f447.png" alt="David Duarte | Steam" width="25px"/></a>
 
 <!--
+50% height=50%
 ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
 ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black)
 -->
