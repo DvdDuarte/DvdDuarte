@@ -8,7 +8,9 @@ Holder of:
 
 <a href="https://bitcoin.org/en/"><img src="https://user-images.githubusercontent.com/62104686/142598488-6e2b2a9d-0611-4d52-ba19-70febd3858b2.png" width=30px  align="bottom" alt="bitcoin-icon"></a>
 <a href="https://www.phuntoken.com/"><img src="https://user-images.githubusercontent.com/62104686/142600252-7a95d54b-04cc-4b87-a945-7201cd73ba8f.png" width=32px align="bottom" alt="phuntoken"></a>
-<a href="https://basicattentiontoken.org/"><img src="https://user-images.githubusercontent.com/62104686/143884001-316c5e32-eb71-437c-bc16-fb3fc22f9829.png" width=30px align="bottom" alt="bat token"></a>
+<a href="https://basicattentiontoken.org/"><img src="https://user-images.githubusercontent.com/62104686/143884001-316c5e32-eb71-437c-bc16-fb3fc22f9829.png" width=50px align="bottom" alt="bat token"></a>
+
+
 ## Index <img src="https://komarev.com/ghpvc/?username=DvdDuarte"/>
 - [📖 Languages i work with](https://github.com/DvdDuarte#-languages-i-work-with)
 - [📚 I’m currently learning](https://github.com/DvdDuarte#-im-currently-learning)
