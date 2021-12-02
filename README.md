@@ -17,8 +17,8 @@ Holder of:
 - [🛠 Tools i use](https://github.com/DvdDuarte#-tools-i-use)
 - [💻 OS](https://github.com/DvdDuarte#-os-systems)
 - [💾 My Stats](https://github.com/DvdDuarte#-my-stats)
-- [😁 Random joke of the day](https://github.com/DvdDuarte#-random-joke-of-the-day)
 - [📫 How to reach me](https://github.com/DvdDuarte#-how-to-reach-me)
+<!-- - [😁 Random joke of the day](https://github.com/DvdDuarte#-random-joke-of-the-day) -->
 
 ### 📖 Languages i work with:
 <a href="https://www.haskell.org/documentation/"><img src="https://user-images.githubusercontent.com/62104686/142400954-7afaf2dd-8895-4635-9891-064742925ff0.png" width=45px alt="haskell-icon"></a>
@@ -47,8 +47,10 @@ Holder of:
 [![DvdDuarte’s github stats](https://github-readme-stats.vercel.app/api?username=DvdDuarte&count_private=true&theme=radical)](https://github.com/DvdDuarte)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DvdDuarte&layout=compact&theme=radical)](https://github.com/DvdDuarte)
 
+<!--
 ### 😁 Random joke of the day:
 <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" width=500px/>
+-->
 
 ### 📫 How to reach me:
 <a href="https://www.instagram.com/_dvd_duarte_/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="David Duarte | Instagram" width="25px"/></a>
