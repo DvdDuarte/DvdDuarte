@@ -28,7 +28,7 @@ Holder of:
 ### 📚 I’m currently learning:
 - [Python](https://docs.python.org/3/)
 - [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
-- [Rust](https://www.rust-lang.org/learn)
+- [Rust](https://github.com/DvdDuarte/Rust) <!--(https://www.rust-lang.org/learn)-->
 
 ### 🛠 Tools i use:
 [![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white)](https://www.jetbrains.com/clion/)
