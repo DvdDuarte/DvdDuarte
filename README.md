@@ -26,8 +26,8 @@ Holder of:
 <a href="https://docs.oracle.com/en/java/javase/17/docs/api/index.html"><img src="https://user-images.githubusercontent.com/62104686/142401190-df78b2c6-2bfc-4ead-96bc-bd09951071fb.png"  width=45px alt="java-icon"></a>
 
 ### 📚 I’m currently learning:
-- [Python](https://docs.python.org/3/)
-- [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
+- [Python](https://github.com/DvdDuarte/Python/)<!--(https://docs.python.org/3/)-->
+- [C#](https://github.com/DvdDuarte/C-Sharp/)<!--(https://docs.microsoft.com/en-us/dotnet/csharp/)-->
 - [Rust](https://github.com/DvdDuarte/Rust) <!--(https://www.rust-lang.org/learn)-->
 
 ### 🛠 Tools i use:
