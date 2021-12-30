@@ -11,7 +11,7 @@ Holder of:
 <a href="https://basicattentiontoken.org/"><img src="https://user-images.githubusercontent.com/62104686/146076444-539df968-d70d-431c-b05c-a06e78876f6f.png" width=30px align="bottom" alt="bat token"></a>
 
 
-## Index <img src="https://komarev.com/ghpvc/?username=DvdDuarte"/>
+## Index <!-- <img src="https://komarev.com/ghpvc/?username=DvdDuarte"/> -->
 - [📖 Languages i work with](https://github.com/DvdDuarte#-languages-i-work-with)
 - [📚 I’m currently learning](https://github.com/DvdDuarte#-im-currently-learning)
 - [🛠 Tools i use](https://github.com/DvdDuarte#-tools-i-use)
