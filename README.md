@@ -48,7 +48,7 @@ Holder of:
  
   2nd semester | Project
  :-----: | :----: 
- CP 20-21  | [Project]()
+ CP 20-21  | <!--[Project]()-->
  LI3 20-21  | [Project](https://github.com/DvdDuarte/Projeto-LI3)
  POO   | [Project](https://github.com/DvdDuarte/Projeto-POO-20-21)
  SO   | [Project](https://github.com/DvdDuarte/Projeto-SO-20-21)
@@ -57,12 +57,12 @@ Holder of:
  
  1st semester | Project
  :-----: | :----: 
- CC    | [Project]()
- CP 21-11 | [Project]<!--(https://github.com/DvdDuarte/Projeto-CP-2021-2022)-->
+ CC    | <!--[Project]()-->
+ CP 21-11 | <!--[Project](https://github.com/DvdDuarte/Projeto-CP-2021-2022)-->
  DSS   | [Project](https://github.com/DvdDuarte/Projeto-DSS-21-22)
  IA    | [Project](https://github.com/DvdDuarte/Projeto-IA-21-22)
  LI3 21-22  | [Project]()
- LI4   | [Project]<!--(https://github.com/DvdDuarte/Where2Go)-->
+ LI4   | <!--[Project](https://github.com/DvdDuarte/Where2Go)-->
  
  <!--
   2nd semester | Project
