@@ -10,7 +10,6 @@ Holder of:
 <a href="https://www.phuntoken.com/"><img src="https://user-images.githubusercontent.com/62104686/142600252-7a95d54b-04cc-4b87-a945-7201cd73ba8f.png" width=32px align="bottom" alt="phuntoken"></a>
 <a href="https://basicattentiontoken.org/"><img src="https://user-images.githubusercontent.com/62104686/146076444-539df968-d70d-431c-b05c-a06e78876f6f.png" width=30px align="bottom" alt="bat token"></a>
 
-
 ## Index  <img src="https://komarev.com/ghpvc/?username=DvdDuarte"/>
 - [📖 Languages i work with](#-languages-i-work-with)
 - - [My Univeristy Projects](#my-univeristy-projects)
@@ -29,10 +28,10 @@ Holder of:
 <a href="https://devdocs.io/c/"><img src="https://user-images.githubusercontent.com/62104686/142401436-ef904c55-7d35-4d15-a5fc-6cb57cd5bfc7.png" width=45px alt="c-icon"></a>
 <a href="https://docs.oracle.com/en/java/javase/17/docs/api/index.html"><img src="https://user-images.githubusercontent.com/62104686/142401190-df78b2c6-2bfc-4ead-96bc-bd09951071fb.png"  width=45px alt="java-icon"></a>
 
-----------
-
 ### My Univeristy Projects:
+
 #### 1st Year
+
  1st semester | Project
  :-----: | :----: 
  LI1   | [Project](https://github.com/DvdDuarte/Projeto-LI1)
@@ -42,6 +41,7 @@ Holder of:
  LI2   | [Project](https://github.com/DvdDuarte/Projeto-LI2)
  
  #### 2nd Year
+ 
  1st semester | Project
  :-----: | :----: 
  CD   | [Project](https://github.com/DvdDuarte/Projeto-SHAFT-CD-20-21)
@@ -54,6 +54,7 @@ Holder of:
  SO   | [Project](https://github.com/DvdDuarte/Projeto-SO-20-21)
  
  #### 3rd Year
+ 
  1st semester | Project
  :-----: | :----: 
  LI4   | [Project](https://github.com/DvdDuarte/Where2Go)
@@ -63,14 +64,12 @@ Holder of:
  :-----: | :----: 
     | [Project]() -->
 
-----------
+
 
 ### 📚 I’m currently learning:
 - [Python](https://github.com/DvdDuarte/Python/)<!--(https://docs.python.org/3/)-->
 - [C#](https://github.com/DvdDuarte/C-Sharp/)<!--(https://docs.microsoft.com/en-us/dotnet/csharp/)-->
 - [Rust](https://github.com/DvdDuarte/Rust) <!--(https://www.rust-lang.org/learn)-->
-
-----------
 
 ### 🛠 Tools i use:
 [![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white)](https://www.jetbrains.com/clion/)
@@ -79,8 +78,6 @@ Holder of:
 [![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/)
 [![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)](www.sublimetext.com)
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-
-----------
 
 ### 💻 OS:
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/pt-pt/windows)
@@ -94,9 +91,6 @@ Holder of:
 
 ### 😁 Random joke of the day:
 <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" width=500px/>
-
-
-----------
 
 ### 📫 How to reach me:
 <a href="https://www.instagram.com/_dvd_duarte_/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="David Duarte | Instagram" width="25px"/></a>
