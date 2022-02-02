@@ -22,7 +22,7 @@ Holder of:
 - [💻 OS](#-os)
 - [💾 My Stats](#-my-stats)
 - [📫 How to reach me](#-how-to-reach-me)
-- [😁 Random joke of the day](#-random-joke-of-the-day) -->
+- [😁 Random joke of the day](#-random-joke-of-the-day)
 
 ### 📖 Languages i work with:
 <a href="https://www.haskell.org/documentation/"><img src="https://user-images.githubusercontent.com/62104686/142400954-7afaf2dd-8895-4635-9891-064742925ff0.png" width=45px alt="haskell-icon"></a>
