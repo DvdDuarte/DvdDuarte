@@ -28,48 +28,6 @@ Holder of:
 <a href="https://devdocs.io/c/"><img src="https://user-images.githubusercontent.com/62104686/142401436-ef904c55-7d35-4d15-a5fc-6cb57cd5bfc7.png" width=45px alt="c-icon"></a>
 <a href="https://docs.oracle.com/en/java/javase/17/docs/api/index.html"><img src="https://user-images.githubusercontent.com/62104686/142401190-df78b2c6-2bfc-4ead-96bc-bd09951071fb.png"  width=45px alt="java-icon"></a>
 
-### My Univeristy Projects:
-
-#### 1st Year
-
- 1st semester | Project
- :-----: | :----: 
- LI1   | [Find Project Here](https://github.com/DvdDuarte/Projeto-LI1)
- 
-  2nd semester | Project
- :-----: | :----: 
- LI2   | [Find Project Here](https://github.com/DvdDuarte/Projeto-LI2)
- 
- #### 2nd Year
- 
- 1st semester | Project
- :-----: | :----: 
- CD   | [Find Project Here](https://github.com/DvdDuarte/Projeto-SHAFT-CD-20-21)
- 
-  2nd semester | Project
- :-----: | :----: 
- CP 20-21  | <!--[Find Project Here]()-->
- LI3 20-21  | [Find Project Here](https://github.com/DvdDuarte/Projeto-LI3)
- POO   | [Find Project Here](https://github.com/DvdDuarte/Projeto-POO-20-21)
- SO   | [Find Project Here](https://github.com/DvdDuarte/Projeto-SO-20-21)
- 
- #### 3rd Year
- 
- 1st semester | Project
- :-----: | :----: 
- CC    | <!--[Find Project Here]()-->
- CP 21-11 | <!--[Find Project Here](https://github.com/DvdDuarte/Projeto-CP-2021-2022)-->
- DSS   | [Find Project Here](https://github.com/DvdDuarte/Projeto-DSS-21-22)
- IA    | [Find Project Here](https://github.com/DvdDuarte/Projeto-IA-21-22)
- LI3 21-22  | [Find Project Here]()
- LI4   | <!--[Find Project Here](https://github.com/DvdDuarte/Where2Go)-->
- 
- <!--
-  2nd semester | Project
- :-----: | :----: 
-    | [Find Project Here]() -->
-
-
 
 ### 📚 I’m currently learning:
 - [Python](https://github.com/DvdDuarte/Python/)<!--(https://docs.python.org/3/)-->
