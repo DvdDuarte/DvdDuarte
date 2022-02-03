@@ -12,7 +12,7 @@ Holder of:
 
 ## Index  <img src="https://komarev.com/ghpvc/?username=DvdDuarte"/>
 - [📖 Languages i work with](#-languages-i-work-with)
-- - [My Univeristy Projects](University.md#projects)
+- [My Univeristy Projects](University.md#projects)
   - [1st Year](University.md#projects#1st-year)
   - [2nd Year](University.md#projects#2nd-year)
   - [3rd Year](University.md#projects#3rd-year)
