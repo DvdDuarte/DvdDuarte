@@ -1,4 +1,4 @@
-# University - Projects
+# Projects
 ## 1st Year
  1st semester | Project
  :-----: | :----: 
