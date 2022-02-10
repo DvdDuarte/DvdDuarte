@@ -25,11 +25,11 @@
 
  1st semester | Project
  :-----: | :----: 
- CC    | <!--[Find Project Here]()-->
+ CC    | [Find Project Here](https://github.com/DvdDuarte/Projeto-CC-21-22)
  CP 21-11 | <!--[Find Project Here](https://github.com/DvdDuarte/Projeto-CP-2021-2022)-->
  DSS   | [Find Project Here](https://github.com/DvdDuarte/Projeto-DSS-21-22)
  IA    | [Find Project Here](https://github.com/DvdDuarte/Projeto-IA-21-22)
- LI3 21-22  | [Find Project Here]()
+ LI3 21-22  | [Find Project Here](https://github.com/DvdDuarte/Projeto-LI3-21-22)
  LI4   | <!--[Find Project Here](https://github.com/DvdDuarte/Where2Go)-->
 
  <!--
