@@ -35,7 +35,7 @@
 
  2nd semester | Project
  :-----: | :----: 
- ADI  | <!-- [Find Project Here]() -->
- CG   | <!-- [Find Project Here](https://github.com/DvdDuarte/Projeto-CG-21-22) -->
- IO   | <!-- [Find Project Here]() -->
- PL   | <!-- [Find Project Here](https://github.com/DvdDuarte/Projeto-PL-21-22) -->
+ ADI  | [Find Project Here](https://github.com/DvdDuarte/Projeto-ADI-21-22)
+ CG   | [Find Project Here](https://github.com/DvdDuarte/Projeto-CG-21-22)
+ IO   | [Find Project Here](https://github.com/DvdDuarte/Projeto-IO-21-22)
+ PL   | [Find Project Here](https://github.com/DvdDuarte/Projeto-PL-21-22)
