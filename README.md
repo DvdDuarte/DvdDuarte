@@ -60,7 +60,7 @@ Holder of:
 <a href="https://www.linkedin.com/in/dvdduarte/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="David Duarte | LinkedIn" width="25px"/></a>
 <a href="https://steamcommunity.com/id/sleimantuts"><img align="left" src="https://user-images.githubusercontent.com/62104686/142607067-91ead1d5-f691-4810-8cdd-869a18b0f447.png" alt="David Duarte | Steam" width="25px"/></a>
 <a href="mailto:cdvdfduarte@gmail.com?Subject=[GIT] Entrar em contacto"><img align="left" src="https://user-images.githubusercontent.com/62104686/152224895-2300d1bb-f5a9-45f3-aa4e-7fdb3e29be96.png" alt="David Duarte | Gmail" width="30px"/></a>
-<a href="Sleiman#6521"><img align="left" src="https://user-images.githubusercontent.com/62104686/173605753-ac63dfa1-127a-4ce9-9160-07ac72b3c753.png" alt="David Duarte | Discord" width="40px"/></a>
+<a href="https://discord.gg/hCddCw8"><img align="left" src="https://user-images.githubusercontent.com/62104686/173605753-ac63dfa1-127a-4ce9-9160-07ac72b3c753.png" alt="Ruvid Games | Discord Server" width="40px"/></a>
 
 
 
