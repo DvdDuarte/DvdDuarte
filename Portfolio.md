@@ -20,7 +20,9 @@
 - []()
 -->
 
-### Project title
-
+### [Discord Bot](https://github.com/DvdDuarte/SR240Z)
+A discord bot to moderate servers.
 <!-- insert image -->
 
+### [Web Scrapper](https://github.com/DvdDuarte/Projeto-LI1) 
+A web scrapper in python to scrape .... website.
