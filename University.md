@@ -12,7 +12,7 @@
 
  1st semester | Project
  :-----: | :----: 
- CD   | [Find Project Here](https://github.com/DvdDuarte/Projeto-SHAFT-CD-20-21)
+ CD   | [Find Project Here](https://github.com/DvdDuarte/Projeto-SHAFA-CD-20-21)
 
   2nd semester | Project
  :-----: | :----: 
