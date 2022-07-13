@@ -24,5 +24,10 @@
 A discord bot to moderate servers.
 <!-- insert image -->
 
-### [Web Scrapper](https://github.com/DvdDuarte/Projeto-LI1) 
-A web scrapper in python to scrape .... website.
+### [Coin Market Cap Web Scrapper](https://github.com/DvdDuarte/CoinMarketCap-WebScrapper) 
+A web scrapper in python to scrape coin market cap website.
+
+### [Coin Market Cap Web Scrapper](https://github.com/DvdDuarte/Beyblade-Fandom-WebScrapper) 
+A web scrapper in python to scrape coin market cap website.
+
+### [Beyblade 3d Fan game](https://github.com/DvdDuarte/Beyblade-Fan-Game)
