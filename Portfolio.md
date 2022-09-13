@@ -20,6 +20,9 @@
 - []()
 -->
 
+### [Stardew Valley Clone](https://github.com/DvdDuarte/Stardew-Valley-Clone)
+A basic Stardew Valley clone in python with pygame 
+
 ### [Discord Bot](https://github.com/DvdDuarte/SR240Z)
 A discord bot to moderate servers.
 <!-- insert image -->
