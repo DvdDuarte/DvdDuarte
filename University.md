@@ -1,5 +1,11 @@
 # Projects
-## 1st Year
+## Index
+-[1st Year](#1st-year)
+-[2nd Year](#2nd-year)
+-[3rd Year](#3rd-year)
+-[4th Year](#4th-year)
+
+### 1st Year
  1st semester | Project
  :-----: | :----: 
  LI1   | [Find Project Here](https://github.com/DvdDuarte/Projeto-LI1)
@@ -8,7 +14,7 @@
  :-----: | :----: 
  LI2   | [Find Project Here](https://github.com/DvdDuarte/Projeto-LI2)
 
- ## 2nd Year
+ ### 2nd Year
 
  1st semester | Project
  :-----: | :----: 
@@ -21,7 +27,7 @@
  POO   | [Find Project Here](https://github.com/DvdDuarte/Projeto-POO-20-21)
  SO   | [Find Project Here](https://github.com/DvdDuarte/Projeto-SO-20-21)
 
- ## 3rd Year
+ ### 3rd Year
 
  1st semester | Project
  :-----: | :----: 
@@ -41,7 +47,7 @@
  PL   | [Find Project Here](https://github.com/DvdDuarte/Projeto-PL-21-22)
  
  
- ## 4th Year
+ ### 4th Year
 
  1st semester | Project
  :-----: | :----: 
