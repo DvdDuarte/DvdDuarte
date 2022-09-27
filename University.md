@@ -1,9 +1,9 @@
 # Projects
 ## Index
--[1st Year](#1st-year)
--[2nd Year](#2nd-year)
--[3rd Year](#3rd-year)
--[4th Year](#4th-year)
+- [1st Year](#1st-year)
+- [2nd Year](#2nd-year)
+- [3rd Year](#3rd-year)
+- [4th Year](#4th-year)
 
 ### 1st Year
  1st semester | Project
