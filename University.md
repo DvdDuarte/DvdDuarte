@@ -53,5 +53,6 @@
 
  *(1) (Computação Paralela)
  
- 2nd semester | Project
+<!-- 2nd semester | Project -->
+
  
