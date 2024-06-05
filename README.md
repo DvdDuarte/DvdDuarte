@@ -13,9 +13,13 @@ Holder of:
 ## Index  <img src="https://komarev.com/ghpvc/?username=DvdDuarte"/>
 - [📖 Languages i work with](#-languages-i-work-with)
 - [My Univeristy Projects](University.md#projects)
-  - [1st Year](University.md#projects#1st-year)
-  - [2nd Year](University.md#projects#2nd-year)
-  - [3rd Year](University.md#projects#3rd-year)
+  - [Bachelor's Degree]
+    - [1st Year](University.md#projects#1st-year)
+    - [2nd Year](University.md#projects#2nd-year)
+    - [3rd Year](University.md#projects#3rd-year)
+  - [Master's Degree]
+    - [1st Year (4th)](University.md#projects#4th-year)
+<!--- [2nd Year](University.md#projects#-year) -->
 - [📚 I’m currently learning](#-im-currently-learning)
 - [🛠 Tools i use](#-tools-i-use)
 - [💻 OS](#-os)
